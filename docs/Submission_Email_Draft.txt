@@ -1,0 +1,20 @@
+# Submission Email Draft
+
+Subject: Task 1 Submission — AI Growth & Automation Associate — ClinicFlow Simple
+
+Dear Hiring Team,
+
+Please find my Task 1 submission for the AI Growth & Automation Associate position.
+
+Project: ClinicFlow Simple — AI-assisted clinic administration workflow
+
+Project link: [Insert accessible GitHub repository, live app, or Google Drive link]
+Video presentation (2+ minutes): [Insert video link]
+Prompt documentation: Included in the project repository / [insert direct link]
+
+The prototype demonstrates appointment request entry, request tracking, status updates, and AI-assisted administrative reply drafts. It uses fictional demo data and does not provide medical advice or send messages automatically.
+
+Thank you for your time and consideration.
+
+Regards,
+[Your full name]
